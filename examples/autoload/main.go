@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	_ "github.com/ipsl/genv/autoload"
+	_ "github.com/youpps/genv/autoload"
 )
 
 func main() {

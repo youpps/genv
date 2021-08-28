@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/ipsl/genv"
+	"github.com/youpps/genv"
 )
 
 func main() {

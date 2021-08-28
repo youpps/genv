@@ -3,7 +3,7 @@ package autoload
 import (
 	"log"
 
-	"github.com/ipsl/genv"
+	"github.com/youpps/genv"
 )
 
 func init() {
