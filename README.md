@@ -16,7 +16,7 @@ import (
     "log"
     "os"
 
-    "github.com/ipsl/genv"
+    "github.com/youpps/genv"
 )
 
 func main() {
@@ -37,7 +37,7 @@ import (
     "fmt"
     "os"
 
-    _ "github.com/ipsl/genv/autoload"
+    _ "github.com/youpps/genv/autoload"
 )
 
 func main() {
