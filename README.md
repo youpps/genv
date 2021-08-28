@@ -2,7 +2,7 @@
 
 It is simple librari for working with env.
 
-## `go go get github.com/ipsl/genv`
+### `go go get github.com/ipsl/genv`
 
 ## **Examples:**
 
