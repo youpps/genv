@@ -1,6 +1,6 @@
 # **GOENV**
 
-It is simple librari for working with env.
+It is simple library for working with env.
 
 ### `go go get github.com/youpps/genv`
 
